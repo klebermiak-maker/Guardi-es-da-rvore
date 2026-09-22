@@ -1,0 +1,6 @@
+{
+  "name": "Jogo da Semana da Árvore - D07 e D08 (5º Ano)",
+  "description": "Jogo educativo para o 5º ano do Ensino Fundamental com desafios da Semana do Dia da Árvore baseados nos Descritores SAEB D07 (Conflito Gerador) e D08 (Causa e Consequência).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
